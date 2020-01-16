@@ -1,4 +1,4 @@
-INSERT INTO cats (id, name, age, gender, color, temperament, alive) VALUES 
+INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES 
 (1, "Mr.Chocolate", 2, "female", "blue", "crybaby", true);
 (2, "Rowdy", 10, "male", "red", "annoying", false);
 (3, "Tabitha", 23, "female", "brown", "nice", true);
