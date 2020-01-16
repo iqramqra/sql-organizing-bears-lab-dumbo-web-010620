@@ -16,4 +16,4 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 -- (5, "Melissa", 17, "F", "white", "zealous", 0),
 -- (6, "Grinch", 11, "M", "Green", "cynical", 0),
 -- (7, "Wendy", 16, "F", "Red", "fun-loving", 1),
--- (8, null, 43, "M", "blue", "aggressive", 0);
+-- (, null, 43, "M", "blue", "aggressive", 0);
